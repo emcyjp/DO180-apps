@@ -14,7 +14,7 @@
 
 <tr>
     <td>Convert to:</td>
-    <td><select name="scale" id="scale" size="1">
+    <td><select name="scale Maria C" id="scale" size="1">
                <option disabled>Select the scale</option>
                <option value="c">Celsius</option>
                <option value="f">Fahrenheit</option>
